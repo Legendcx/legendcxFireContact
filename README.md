@@ -5,7 +5,7 @@
 
 ### Description
 
-Project aims to create a Contact App.
+Project aims to create a Add Contact App.
 
 ### Visualization of the Website
 
@@ -42,7 +42,10 @@ SOLUTION
 
 ### Used in this project
 
-👉 I mastered ReactJS, firebase-database, TailWind, react-toastify, Animated Icons features in this project. You can see the visual representation of the website above.
+👉 I mastered ReactJS, firebase-database, Material UI, react-toastify, MUI Icons features in this project. You can see the visual representation of the website above.
+
+
+
 
 # Getting Started with Create React App
 
