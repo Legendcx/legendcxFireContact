@@ -9,7 +9,7 @@ Project aims to create a Contact App.
 
 ### Visualization of the Website
 
-![image](https://github.com/Sekunev/contact-app/blob/main/Animation.gif)
+![image](https://Legendcx/legendcxFireContact/blob/main/addContact.gif)
 
 ### Project Skeleton
 
